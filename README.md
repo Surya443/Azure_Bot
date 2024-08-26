@@ -63,7 +63,7 @@ A simple bot developed using Azure bot SDK framework and deployed in Azure webap
         ```
         
     - The terminal should display a message indicating that the bot is running, typically on `http://localhost:3978`.
-    - image
+      ![Image](images/bash_output.png)
 
 ### Testing the Bot Using Bot Framework Emulator
 
@@ -97,13 +97,14 @@ The Bot Framework Emulator is a desktop application that allows you to test and 
 
 1. **Interact with your bot**:
     - In the Bot Framework Emulator, you can type messages in the chat window.
-    - The bot should echo back any message you send, demonstrating the basic functionality.
+    - The bot should reply with the messages that it got as response from gpt adaptor 
+  
 
 
 
 ---
 
-## Steps for Deploying an Azure EchoBot in Azure Web-App and Testing It in Web-Chat using Visual Studio Code
+## Steps for Deploying the Bot in Azure Web-App and Testing It in Web-Chat using Visual Studio Code
 
 
 
@@ -179,5 +180,7 @@ After receiving the deployment success message in Visual Studio Code, head to we
 
     
 - You can now interact with your Bot to ensure it is working as expected.
+
+![image](images/test_in_webchat.png)
 
 By following these steps, you should be able to successfully deploy your Bot to Azure Web-App and test it using Web Chat.
