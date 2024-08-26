@@ -184,3 +184,7 @@ After receiving the deployment success message in Visual Studio Code, head to we
 ![image](images/test_in_webchat.png)
 
 By following these steps, you should be able to successfully deploy your Bot to Azure Web-App and test it using Web Chat.
+
+## Documentations References :
+- [Azure Openai documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+  
