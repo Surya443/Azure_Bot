@@ -10,7 +10,7 @@ A simple bot developed using Azure bot SDK framework and deployed in Azure webap
     - On macOS or Linux, use the terminal.
 
  2. **Clone the repository**:
-    - Run the following command in your terminal to clone the Bot Framework samples repository:
+    - Run the following command in your terminal to clone the Bot repository:
         
         ```bash
         git clone https://github.com/Surya443/Azure_Bot.git
@@ -63,6 +63,7 @@ A simple bot developed using Azure bot SDK framework and deployed in Azure webap
         ```
         
     - The terminal should display a message indicating that the bot is running, typically on `http://localhost:3978`.
+    - image
 
 ### Testing the Bot Using Bot Framework Emulator
 
@@ -177,6 +178,6 @@ After receiving the deployment success message in Visual Studio Code, head to we
     
 
     
-- You can now interact with your EchoBot to ensure it is working as expected.
+- You can now interact with your Bot to ensure it is working as expected.
 
-By following these steps, you should be able to successfully deploy your EchoBot to Azure Web-App and test it using Web Chat.
+By following these steps, you should be able to successfully deploy your Bot to Azure Web-App and test it using Web Chat.
